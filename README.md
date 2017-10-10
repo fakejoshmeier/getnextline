@@ -1,0 +1,2 @@
+# getnextline
+My getnextline
